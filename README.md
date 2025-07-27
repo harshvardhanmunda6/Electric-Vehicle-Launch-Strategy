@@ -1,22 +1,18 @@
 # Electric-Vehicle-Launch-Strategy
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%.  
 
-.
-Table of Contents
-Data Model
 
-Project Tasks (Primary & Secondary Questions)
+# Power BI Dashboard
 
-Task‑wise Insights & Recommendations
-
-Power BI Dashboard
 <img width="1038" height="573" alt="Screenshot (523)" src="https://github.com/user-attachments/assets/c7d71432-0905-4c47-a286-a6434fbc8e56" />
+
+
 <img width="1031" height="585" alt="Screenshot (522)" src="https://github.com/user-attachments/assets/be99cb93-d935-40c7-ad8c-d0c6123aefb8" />
 
 
 
 
-📊 Data Model
+# 📊 Data Model
 Includes three tables:
 
 dim_date
@@ -30,7 +26,7 @@ youtube.com
 GitHub
 .
 
-🎯 Project Tasks
+# 🎯 Project Tasks
 Primary analysis tasks:
 
 Task 1: List the top 3 & bottom 3 EV makers (two‑wheelers) in FY 2023 & 2024.
@@ -52,13 +48,10 @@ Task 8: Identify seasonal peaks and lows in EV sales between 2022–2024.
 Task 9: Project 2030 EV sales for top 10 states based on CAGR.
 
 Task 10: Estimate revenue growth rates for two‑ and four‑wheeler EVs comparing 2022–2023 and 2023–2024 assuming an average unit price 
-GitHub
-+1
-GitHub
-+1
-.
 
-🧠 Key Insights & Recommendations
+
+
+# 🧠 Key Insights & Recommendations
 Dominant Maker: OLA Electric led EV sales in both 2023 and 2024; smaller brands lag behind.
 
 State Leaders:
@@ -67,11 +60,11 @@ State Leaders:
 
 4‑wheelers: Kerala tops penetration rates.
 
-Overall Trends: All states showed positive EV penetration growth between 2022 and 2024.
+# Overall Trends: All states showed positive EV penetration growth between 2022 and 2024.
 
-Quarterly Trends: Tata Motors showed strongest sequential growth among top 5 4‑wheeler producers.
+# Quarterly Trends: Tata Motors showed strongest sequential growth among top 5 4‑wheeler producers.
 
-CAGR Highlights:
+# CAGR Highlights:
 
 BYD India achieved a spectacular growth (~566.5%).
 
