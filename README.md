@@ -74,11 +74,13 @@ Regional Comparison: Karnataka outperformed Delhi in both sales and penetration 
 
 Suggested brand ambassadors (based on reach and alignment with sustainability):
 
-Virat Kohli
+Virat Kohli 
 
-Priyanka Chopra
+MS Dhoni
 
 Akshay Kumar
+
+John Abraham 
 
 Recommended state for manufacturing launch: Tamil Nadu, for its strong capital subsidies, tax exemptions, and ease of doing business 
 GitHub
